@@ -1,0 +1,27 @@
+name: thesis
+channels:
+  - conda-forge
+dependencies:
+  - ipython
+  - sympy
+  - scipy
+  - numpy
+  - matplotlib
+  - opty
+  - openmp
+  - pydy
+  - pytables
+  - yeadon
+  - pandas
+  - bicycleparameters
+  - symmeplot
+  - poetry
+  - notebook
+  - scikits.odes
+  - requests
+  - cloudpickle
+  - SciencePlots
+  - cyipopt
+  - symbrim
+  - pip:
+      - miktex
