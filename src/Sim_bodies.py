@@ -1,5 +1,4 @@
 from __future__ import annotations
-
 from symbrim.rider import PlanarPelvis, PelvisBase, TorsoBase
 from symbrim.brim import PelvisInterPointMixin
 from src.SimBodyBase import InterSeatBase, HeadBase, SimPelvisBase, SimTorsoBase
